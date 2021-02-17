@@ -1,3 +1,3 @@
 # 2imd-dev-portfolio
 
-..* # Lab 1
+# Lab 1
